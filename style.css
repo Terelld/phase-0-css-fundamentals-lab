@@ -1,5 +1,30 @@
+h1 {
+  text-align: center;
+}
+IMG {
+  display: block;
+  margin: 0 auto;
+}
+figcaption {
+  text-align: center;
+  font-size:small
+}
+p.featured-property {
+  text-align: center;
+  block-size: 800px;
+} 
+nav {
+  margin:0;
+  padding:0;
+  text-align:center;
+  background-color:dimgrey
+}
 body {
   width: 100%;
   height: 100%;
   margin: 0;
+}
+div {
+  text-align: center;
+  background-color:blue
 }
